@@ -7,7 +7,7 @@ This is a minigame where you control a Osaka player, your goal is to collect as 
 
 Dump all files into a single folder (e.g. Osaka), then decompress Osaka.rar in the folder along with the files, then execute it!
 
-How to play:
+# How to play:
 
 Use the arrow keys or WASD to move as Osaka player
 
