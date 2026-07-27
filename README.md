@@ -3,6 +3,10 @@ Do you want to collect Osakas appearing all over the window? You can now with th
 
 This is a minigame where you control a Osaka player, your goal is to collect as many Osaka targets you can, by avoiding Osaka hazards that appear along with your progress.
 
+# Tip for executing:
+
+Dump all files into a single folder (e.g. Osaka), then decompress Osaka.rar in the folder along with the files, then execute it!
+
 How to play:
 
 Use the arrow keys or WASD to move as Osaka player
