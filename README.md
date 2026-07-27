@@ -25,6 +25,10 @@ However, full hard mode stands by `PlayerSpeed = Fast` and `HazardRate = Hard (E
 
 You can change this in the Settings menu.
 
+# Fun Fact
+
+Since the script only searches for file names, you can change the audio or image files (as long as they match the names)
+
 you know how to play now
 have fun
 
